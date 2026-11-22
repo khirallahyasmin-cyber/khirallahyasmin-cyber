@@ -29,7 +29,7 @@
 </style>
 
 <!-- CARTE : fond + bordure (rx = arrondi des coins) -->
-<rect x="2" y="2" width="796" height="172" rx="16" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
+<rect x="2" y="2" width="1200" height="172" rx="16" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
 
 <g clip-path="url(#card)">
   <rect width="800" height="176" fill="url(#glow)"/>
