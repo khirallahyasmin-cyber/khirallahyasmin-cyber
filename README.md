@@ -2,11 +2,7 @@
   <img src="assets/card-name.svg" width="650" alt="Yasmine Khirallah - Junior Cybersecurity Engineer - IAM, SOC, DevSecOps">
 </p>
 
-<p align="center">
-  <a href="https://github.com/khirallahyasmin-cyber/cybersecops-platform">
-    <img src="assets/card-cybersecops.svg" width="650" alt="cybersecops-platform - DevSecOps pipeline (click to open the project)">
-  </a>
-</p>
+
 
 ### `> whoami`
 
@@ -25,6 +21,11 @@ skills --dev       Java (Spring Boot) · Django · Symfony
 ```
 
 ---
+<p align="center">
+  <a href="https://github.com/khirallahyasmin-cyber/cybersecops-platform">
+    <img src="assets/card-cybersecops.svg" width="650" alt="cybersecops-platform - DevSecOps pipeline (click to open the project)">
+  </a>
+</p>
 
 ### `> contact --help`
 
