@@ -9,7 +9,7 @@
 <style>.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}.sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
 <rect x="2" y="2" width="996" height="172" rx="16" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
 <g clip-path="url(#card)">
-<rect width="1000" height="176" fill="url(#glow)"/>
+<rect width="1300" height="400" fill="url(#glow)"/>
 <g><animateTransform attributeName="transform" type="translate" values="-320 0;1200 0;1200 0" keyTimes="0;0.55;1" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.25 1;0 0 0 0"/>
 <polygon points="0,0 110,0 -50,176 -160,176" fill="url(#shine2)"/>
 <polygon points="130,0 150,0 -10,176 -30,176" fill="url(#shine2)"/></g>
@@ -22,5 +22,4 @@
 <text x="124" y="88" class="sans" font-size="32" font-weight="700" fill="#e6edf3">Yasmine Khirallah</text>
 <text x="124" y="113" class="sans" font-size="15" fill="#9da7b3">Junior Cybersecurity Engineer</text>
 <text x="124" y="140" class="mono" font-size="13" font-weight="700" fill="#ff7b72">IAM · SOC · DevSecOps</text>
-<text x="964" y="156" text-anchor="end" class="mono" font-size="12" fill="#6e7681">Tunis, Tunisia</text>
 </svg>
