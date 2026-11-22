@@ -1,7 +1,6 @@
-<p>
-  <img src="assets/card-name.svg" width="650" alt="Yasmine Khirallah - Junior Cybersecurity Engineer - IAM, SOC, DevSecOps">
+<p align="center">
+  <img src="assets/card-name.svg" width="100%" alt="Yasmine Khirallah - Junior Cybersecurity Engineer - IAM, SOC, DevSecOps">
 </p>
-
 
 
 ### `> whoami`
