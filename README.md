@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="assets/card-name.svg" width="650" alt="Yasmine Khirallah - Junior Cybersecurity Engineer - IAM, SOC, DevSecOps">
 </p>
 
