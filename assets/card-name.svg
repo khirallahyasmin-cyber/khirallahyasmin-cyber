@@ -20,9 +20,7 @@
   <!-- COULEURS : lueur dans le coin bas-droite -->
   <radialGradient id="glow" cx="0.9" cy="0.95" r="0.6">
     <stop offset="0" stop-color="#da3633" stop-opacity="0.38"/>
-    <stop offset="1" stop-color="#da3633" stop-opacity="0"/>
-  </radialGradient>
-  <clipPath id="card"><rect x="2" y="2" width="1000" height="172" rx="16"/></clipPath>
+    <stop offset="1" stop-color="#da3633" stop-opacity1300" height="172" rx="16"/></clipPath>
 </defs>
 
 <style>
