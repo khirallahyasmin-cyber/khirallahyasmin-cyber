@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/card-name.gif" width="100%" alt="Khirallah Yasmine - Cybersécurité, DevSecOps &amp; IAM">
+  <img src="assets/card-name.gif" width="100%" alt="Yasmine Khirallah - Étudiante ingénieure en cybersécurité, ESPRIT - IAM, SOC, DevSecOps">
 </p>
 
 <p align="center">
@@ -10,30 +10,22 @@
 
 ### `> whoami`
 
-Je m'intéresse à la **sécurité intégrée au cycle de développement** : je construis des pipelines CI/CD qui testent, analysent et sécurisent une application avant même son déploiement.
-
-> *La sécurité n'est pas une étape de fin de projet, c'est une partie du pipeline.*
+Étudiante ingénieure en cybersécurité, je conçois et j'automatise des solutions d'**IAM**, de **SOC** et de **DevSecOps**.
 
 ---
 
 ### `> cat skills.txt`
 
 ```bash
-skills --dev       Java 17 · Spring Boot · Maven · MySQL · Nginx
-skills --devops    Docker · Docker Compose · Jenkins · Nexus
-skills --security  Gitleaks · SonarQube (SAST) · Trivy (SCA/IaC) · OWASP ZAP (DAST)
-skills --monitor   Prometheus · Grafana · Spring Boot Actuator
-skills --quality   JUnit · JaCoCo · pre-commit · Commitizen · STRIDE
+skills --iam       Active Directory · midPoint · Keycloak · SAML 2.0 · MFA
+skills --soc       Wazuh · Threat Intelligence · n8n · Incident Response
+skills --devsecops Jenkins · Docker · SonarQube · Trivy · OWASP ZAP
+skills --automate  Ansible · PowerShell · Python · Git
+skills --dev       Java (Spring Boot) · Django · Symfony
 ```
 
 ---
 
 ### `> contact --help`
 
-| | |
-|---|---|
-| ⭐ **Star a repository** | si un projet vous a été utile |
-| 🐛 **Open an issue** | si vous repérez une erreur ou une amélioration |
-| 🤝 **Get in touch** | pour échanger ou collaborer sur un projet DevSecOps |
-
-<p align="center"><sub>Built with Docker, Jenkins and a lot of scans 🔐</sub></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmine_Khirallah-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khirallah-yasmine-7b206938b)
