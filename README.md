@@ -17,7 +17,7 @@ skills --iam       Active Directory · midPoint · Keycloak · SAML 2.0 · MFA
 skills --soc       Wazuh · Threat Intelligence · n8n · Incident Response
 skills --devsecops Jenkins · Docker · SonarQube · Trivy · OWASP ZAP
 skills --automate  Ansible · PowerShell · Python · Git
-skills --dev       Java (Spring Boot) · Django · Symfony
+skills --dev       Django · Symfony
 ```
 
 ---
