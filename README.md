@@ -2,7 +2,6 @@
   <img src="assets/card-name.svg" width="100%" alt="Yasmine Khirallah - Junior Cybersecurity Engineer - IAM, SOC, DevSecOps">
 </p>
 
-
 ### `> whoami`
 
 Junior cybersecurity engineer designing and automating **IAM**, **SOC** and **DevSecOps** solutions.
