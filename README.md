@@ -1,16 +1,68 @@
-## Hi there 👋
-
-<!--
-**khirallahyasmin-cyber/khirallahyasmin-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="800" height="372" alt="card-cybersecops (1)" src="https://github.com/user-attachments/assets/74346e98-e085-40fc-87bc-a47d616efa2e" />
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="372" viewBox="0 0 800 372" role="img" aria-label="cybersecops-platform - DevSecOps" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0b1a33"/></linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f6feb"/><stop offset="0.5" stop-color="#79c0ff" stop-opacity="0.7"/><stop offset="1" stop-color="#1f6feb"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="shine2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow" cx="0.9" cy="0.95" r="0.6"><stop offset="0" stop-color="#1f6feb" stop-opacity="0.35"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect x="2" y="2" width="796" height="368" rx="16"/></clipPath>
+</defs>
+<style>.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}.sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect x="2" y="2" width="796" height="368" rx="16" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
+<g clip-path="url(#card)">
+<rect width="800" height="372" fill="url(#glow)"/>
+<g><animateTransform attributeName="transform" type="translate" values="-320 0;1000 0;1000 0" keyTimes="0;0.55;1" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.25 1;0 0 1 1"/>
+<polygon points="0,0 110,0 -50,372 -160,372" fill="url(#shine2)"/>
+<polygon points="130,0 150,0 -10,372 -30,372" fill="url(#shine2)"/></g>
+<rect width="800" height="372" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0.5;0" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="2" y="2" width="796" height="1.5" fill="#fff" opacity="0.14"/>
+</g>
+<g transform="translate(36,30)"><rect width="56" height="56" rx="14" fill="#1f6feb" fill-opacity="0.12" stroke="#1f6feb" stroke-opacity="0.5"/>
+<path d="M28 12 L42 17 V29 C42 37 36 42 28 45 C20 42 14 37 14 29 V17 Z" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M21 28 L26 33 L35 23" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="108" y="54" class="mono" font-size="26" font-weight="700" fill="#e6edf3">cybersecops-platform</text>
+<text x="108" y="78" class="sans" font-size="14" fill="#8b949e">Pipeline DevSecOps complet · CI/CD · sécurité automatisée</text>
+<g transform="translate(626,30)"><rect width="138" height="28" rx="14" fill="#1f6feb" fill-opacity="0.15" stroke="#1f6feb" stroke-opacity="0.6"/><circle cx="20" cy="14" r="4" fill="#58a6ff"/><text x="32" y="19" class="mono" font-size="12" font-weight="700" fill="#58a6ff">OPEN SOURCE</text></g>
+<text x="36" y="124" class="sans" font-size="15" fill="#c9d1d9">Application catalogue produits (Spring Boot, MySQL, Nginx) conteneurisée</text>
+<text x="36" y="146" class="sans" font-size="15" fill="#c9d1d9">avec Docker Compose et sécurisée de bout en bout par un pipeline Jenkins.</text>
+<g class="mono"><g transform="translate(36,176)"><rect width="108" height="58" rx="10" fill="#1f6feb" fill-opacity="0.14" stroke="#58a6ff"/>
+<text x="54.0" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="#58a6ff">SHIFT-LEFT</text>
+<text x="54.0" y="42" text-anchor="middle" font-size="11" fill="#c9d1d9">Gitleaks</text></g>
+<path d="M147 205 h10 m-4 -4 l4 4 l-4 4" fill="none" stroke="#6e7681" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(160,176)"><rect width="108" height="58" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="54.0" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="#58a6ff">BUILD</text>
+<text x="54.0" y="42" text-anchor="middle" font-size="11" fill="#c9d1d9">Maven · Java 17</text></g>
+<path d="M271 205 h10 m-4 -4 l4 4 l-4 4" fill="none" stroke="#6e7681" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(284,176)"><rect width="108" height="58" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="54.0" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="#58a6ff">TEST</text>
+<text x="54.0" y="42" text-anchor="middle" font-size="11" fill="#c9d1d9">JUnit · JaCoCo</text></g>
+<path d="M395 205 h10 m-4 -4 l4 4 l-4 4" fill="none" stroke="#6e7681" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(408,176)"><rect width="108" height="58" rx="10" fill="#1f6feb" fill-opacity="0.14" stroke="#58a6ff"/>
+<text x="54.0" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="#58a6ff">SAST</text>
+<text x="54.0" y="42" text-anchor="middle" font-size="11" fill="#c9d1d9">SonarQube</text></g>
+<path d="M519 205 h10 m-4 -4 l4 4 l-4 4" fill="none" stroke="#6e7681" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(532,176)"><rect width="108" height="58" rx="10" fill="#1f6feb" fill-opacity="0.14" stroke="#58a6ff"/>
+<text x="54.0" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="#58a6ff">SCA · IaC</text>
+<text x="54.0" y="42" text-anchor="middle" font-size="11" fill="#c9d1d9">Trivy</text></g>
+<path d="M643 205 h10 m-4 -4 l4 4 l-4 4" fill="none" stroke="#6e7681" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(656,176)"><rect width="108" height="58" rx="10" fill="#1f6feb" fill-opacity="0.14" stroke="#58a6ff"/>
+<text x="54.0" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="#58a6ff">DAST</text>
+<text x="54.0" y="42" text-anchor="middle" font-size="11" fill="#c9d1d9">OWASP ZAP</text></g>
+</g>
+<g class="mono" font-size="12" fill="#c9d1d9"><g transform="translate(36,264)"><rect width="75" height="26" rx="13" fill="#21262d"/><text x="37.5" y="17" text-anchor="middle">Java 17</text></g>
+<g transform="translate(119,264)"><rect width="104" height="26" rx="13" fill="#21262d"/><text x="52.0" y="17" text-anchor="middle">Spring Boot</text></g>
+<g transform="translate(231,264)"><rect width="60" height="26" rx="13" fill="#21262d"/><text x="30.0" y="17" text-anchor="middle">MySQL</text></g>
+<g transform="translate(299,264)"><rect width="60" height="26" rx="13" fill="#21262d"/><text x="30.0" y="17" text-anchor="middle">Nginx</text></g>
+<g transform="translate(367,264)"><rect width="126" height="26" rx="13" fill="#21262d"/><text x="63.0" y="17" text-anchor="middle">Docker Compose</text></g>
+<g transform="translate(501,264)"><rect width="75" height="26" rx="13" fill="#21262d"/><text x="37.5" y="17" text-anchor="middle">Jenkins</text></g>
+<g transform="translate(584,264)"><rect width="60" height="26" rx="13" fill="#21262d"/><text x="30.0" y="17" text-anchor="middle">Nexus</text></g>
+<g transform="translate(36,298)"><rect width="97" height="26" rx="13" fill="#21262d"/><text x="48.5" y="17" text-anchor="middle">Prometheus</text></g>
+<g transform="translate(141,298)"><rect width="75" height="26" rx="13" fill="#21262d"/><text x="37.5" y="17" text-anchor="middle">Grafana</text></g>
+<g transform="translate(224,298)"><rect width="97" height="26" rx="13" fill="#21262d"/><text x="48.5" y="17" text-anchor="middle">pre-commit</text></g>
+<g transform="translate(329,298)"><rect width="97" height="26" rx="13" fill="#21262d"/><text x="48.5" y="17" text-anchor="middle">Commitizen</text></g>
+<g transform="translate(434,298)"><rect width="67" height="26" rx="13" fill="#21262d"/><text x="33.5" y="17" text-anchor="middle">STRIDE</text></g>
+</g>
+<text x="36" y="350" class="mono" font-size="11" fill="#6e7681">Rapports JSON/HTML · seuils de sécurité · modèle de menaces STRIDE</text>
+<text x="764" y="350" text-anchor="end" class="mono" font-size="12" fill="#6e7681">github.com/khirallahyasmin-cyber</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0MmRkNGNkNy1lOTc3LTRmYTctODI2Ni1lMjU1ZjE5MGYwYzgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaB6y+XKyLthnuqv5gWLL+IEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1NDA3MmEwNi1kOGZiLTQ3NWYtOTBlYS00YTA5MjAyMWY1MjRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoyPFZrn1NDSlcBoXlqM53wgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggGMzB4nVxRKOZOliFvqaRFNUP7RGddYiLLGtqx9s3qEykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOdqJbYRTDaBF+HU1dPOlmcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBM2Yp1/tZF98dtYI+JYk78Gh/VkkqkPzhZ9ATm46v4SZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GR/FZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQyZGQ0Y2Q3LWU5NzctNGZhNy04MjY2LWUyNTVmMTkwZjBjOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY1ODc1MzM1LTA3YWQtNDQ5ZS05MjE0LTMyZDcyNjY3YWZhNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAYzMHidXFEo5k6WIW+ppEU1Q/tEZ11iIssa2rH2zeoTKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHpJyt+9OoLXAvP4oAJiDD3ONb1iHb4ROATK90hmNy4yiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggXxqmYtYU43fBOriBcUnHF5bHn3VsG4Pcj0rLzSnTUPh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFOpXXgjeZj5duhQluGzRVXnzTWfIDi3TYhT4gae40ekdf62DsbSkPcbi/d0a6EQZOJIDTnui+kJuWrnF4ATbfE=</c2pa:manifest></metadata></svg>
