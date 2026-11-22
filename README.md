@@ -2,11 +2,7 @@
   <img src="assets/card-name.gif" width="100%" alt="Yasmine Khirallah - Étudiante ingénieure en cybersécurité, ESPRIT - IAM, SOC, DevSecOps">
 </p>
 
-<p align="center">
-  <a href="https://github.com/khirallahyasmin-cyber/cybersecops-platform">
-    <img src="assets/card-cybersecops.gif" width="100%" alt="cybersecops-platform - pipeline DevSecOps (cliquer pour ouvrir le projet)">
-  </a>
-</p>
+
 
 ### `> whoami`
 
@@ -25,7 +21,11 @@ skills --dev       Java (Spring Boot) · Django · Symfony
 ```
 
 ---
-
+<p align="center">
+  <a href="https://github.com/khirallahyasmin-cyber/cybersecops-platform">
+    <img src="assets/card-cybersecops.gif" width="100%" alt="cybersecops-platform - pipeline DevSecOps (cliquer pour ouvrir le projet)">
+  </a>
+</p>
 ### `> contact --help`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmine_Khirallah-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khirallah-yasmine-7b206938b)
